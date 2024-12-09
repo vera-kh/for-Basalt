@@ -1,12 +1,3 @@
----
-figureTitle: Рисунок
-tableTitle: Таблица
-tableEqns: true
-titleDelim: "&nbsp;–"
-link-citations: true
-linkReferences: true
-chapters: true
-...
 # Утилита *tcptraceroute6*
 ## Общее описание
 Утилита *tcptraceroute 6* отслеживает маршрут пакетов данных, взятых из IP-сети на пути к конечному хосту в сетях, где используется протокол TCP/IPv6.
